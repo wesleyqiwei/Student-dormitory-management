@@ -1,0 +1,19 @@
+{
+  "name": "dorm-server",
+  "version": "1.0.0",
+  "description": "学生宿舍管理系统api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "wesley qi",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.1",
+    "koa-bodyparser": "^4.4.0",
+    "koa-router": "^12.0.0",
+    "koa2-cors": "^2.0.6",
+    "mysql": "^2.18.1"
+  }
+}
