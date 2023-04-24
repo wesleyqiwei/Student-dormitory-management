@@ -1,4 +1,4 @@
-## Student-dormitory-management 学生宿舍管理系统
+## Student-dormitory-management 学生宿舍管理系统 Vue Element Node Koa Mysql
 
 
 #### 欢迎交流需求，交流业务，交流技术 aya_xiyi@163.com
